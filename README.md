@@ -2,11 +2,16 @@
 
 <h1>Jax|Technologies</h1>
 
+
 <h3>🔭 I’m currently working on ...</h3>
 <h5>LMDE Build Scripts</h5>
 
+
+
 <h3>🌱 I’m currently learning ...</h3>
 <h5>Omarchy Linux</h5>
+
+
 
 <!--
 **jaxtechnologies/jaxtechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

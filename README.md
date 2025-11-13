@@ -2,6 +2,9 @@
 
 <h1>Jax|Technologies</h1>
 
+<h3>🔭 I’m currently working on ...</h3>
+<h5>LMDE Build Scripts</h5>
+
 <h3>🌱 I’m currently learning ...</h3>
 <h5>Omarchy Linux</h5>
 
@@ -11,7 +14,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

@@ -1,4 +1,4 @@
-![Jax|Technologies]([image-url](https://avatars.githubusercontent.com/u/104657792?v=4)
+!(https://avatars.githubusercontent.com/u/104657792?v=4)
 
 https://avatars.githubusercontent.com/u/104657792?v=4
 

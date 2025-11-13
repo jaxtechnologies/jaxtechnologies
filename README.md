@@ -1,7 +1,8 @@
 <img src="https://avatars.githubusercontent.com/u/104657792?v=4" alt="Jax|Technologies">
 
+<h1>Jax|Technologies</h1>
 
-## Hi there 👋
+
 
 <!--
 **jaxtechnologies/jaxtechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

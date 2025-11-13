@@ -1,6 +1,5 @@
-!(https://avatars.githubusercontent.com/u/104657792?v=4)
+<img src="https://avatars.githubusercontent.com/u/104657792?v=4" alt="Jax|Technologies">
 
-https://avatars.githubusercontent.com/u/104657792?v=4
 
 ## Hi there 👋
 

@@ -2,10 +2,16 @@
 
 <h1>Jax|Technologies</h1>
 
+<br>
+<br>
+<br>
 
 <h3>🔭 I’m currently working on ...</h3>
 <h5>LMDE Build Scripts</h5>
 
+<br>
+<br>
+<br>
 
 
 <h3>🌱 I’m currently learning ...</h3>

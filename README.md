@@ -4,7 +4,6 @@
 
 <br>
 <br>
-<br>
 
 <h3>🔭 I’m currently working on ...</h3>
 <h5>LMDE Build Scripts</h5>

@@ -20,7 +20,7 @@
 <br>
 <br>
 
-<h3>⚡ Fun fact: I have been working with Linux since 1999-2000...  Red Hat Linux 4.2 was one of my first distros...</h3>
+<h3>⚡ Fun fact: I have been working with Linux since 1998...  Red Hat Linux 4.2 was one of my first distros...</h3>
 <p>It started as a curiosity, but expanded to a career in technology driven engineering where my daily driver is now Linux based, and Windows has been relegated to a system that I might use annually to do my taxes...  I started my Linux journey as a major fanboy of Redhat, and took training in the Redhat Training Facility in Raleigh, NC...  Not long after, I started using CentOS, when Redhat started to change their pricing models...  I still use RHEL systems in my Professional life, but have long migrated to Debian based systems in my personal life, as I like the stability that Debian affords...  I do like the rolling release Arch based distribution and the package manager is pretty cool, but the older I get, the less I want to tinker with my daily driver and have found that LMDE-7 is currently one of my favorite Windows replacements...</p>
 
 <!--
